@@ -1,13 +1,13 @@
 {
   "main.css": "/magic-match/static/css/main.4ed24581.chunk.css",
-  "main.js": "/magic-match/static/js/main.b4952ce5.chunk.js",
-  "main.js.map": "/magic-match/static/js/main.b4952ce5.chunk.js.map",
+  "main.js": "/magic-match/static/js/main.5244ccb2.chunk.js",
+  "main.js.map": "/magic-match/static/js/main.5244ccb2.chunk.js.map",
   "runtime~main.js": "/magic-match/static/js/runtime~main.e3d21a2e.js",
   "runtime~main.js.map": "/magic-match/static/js/runtime~main.e3d21a2e.js.map",
   "static/js/2.477a3c98.chunk.js": "/magic-match/static/js/2.477a3c98.chunk.js",
   "static/js/2.477a3c98.chunk.js.map": "/magic-match/static/js/2.477a3c98.chunk.js.map",
   "index.html": "/magic-match/index.html",
-  "precache-manifest.e535d8fb68614b428f133c08bb01f981.js": "/magic-match/precache-manifest.e535d8fb68614b428f133c08bb01f981.js",
+  "precache-manifest.6ca2b4960be6841a3865c5d24fe06a60.js": "/magic-match/precache-manifest.6ca2b4960be6841a3865c5d24fe06a60.js",
   "service-worker.js": "/magic-match/service-worker.js",
   "static/css/main.4ed24581.chunk.css.map": "/magic-match/static/css/main.4ed24581.chunk.css.map"
 }

@@ -1,7 +1,7 @@
-import './App.css'
+import React from 'react'
 import {useState, useEffect} from 'react'
 import SingleCard from './components/SingleCard'
-import React from 'react'
+import './App.css'
 
 const cardImages = [
   { "src": "./img/helmet-1.png", matched: false},
@@ -33,7 +33,7 @@ function App() {
 
   // handle a choice
   const handleChoice = (card) => {
-    console.log(card)
+    // console.log(card)
     choiceOne ? setChoiceTwo(card) : setChoiceOne(card)
   }
 
@@ -45,7 +45,7 @@ function App() {
       if (choiceOne.src === choiceTwo.src) {
         setCards(prevCards => {
           return prevCards.map(card => {
-            if (cards.src === choiceOne.src) {
+            if (card.src === choiceOne.src) {
               return {...card, matched: true}
             } else {
               return card
@@ -89,7 +89,7 @@ function App() {
       </div>
       <p>Turns: {turns}</p>
     </div>
-  )
+  );
 }
 
 export default App

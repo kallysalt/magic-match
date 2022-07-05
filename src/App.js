@@ -4,12 +4,12 @@ import SingleCard from './components/SingleCard'
 import './App.css'
 
 const cardImages = [
-  { "src": "./img/helmet-1.png", matched: false},
-  { "src": "./img/potion-1.png", matched: false},
-  { "src": "./img/ring-1.png", matched: false},
-  { "src": "./img/scroll-1.png", matched: false},
-  { "src": "./img/shield-1.png", matched: false},
-  { "src": "./img/sword-1.png", matched: false},
+  { "src": "./img/blues.png", matched: false},
+  { "src": "./img/bomb.png", matched: false},
+  { "src": "./img/bubbles.png", matched: false},
+  { "src": "./img/chuck.png", matched: false},
+  { "src": "./img/matilda.png", matched: false},
+  { "src": "./img/red.png", matched: false},
 ]
 
 function App() {
@@ -54,7 +54,7 @@ function App() {
         })
         resetTurn()
       } else {
-        setTimeout(() => resetTurn(), 1000)
+        setTimeout(() => resetTurn(), 800)
       }
     }
   }, [choiceOne, choiceTwo])

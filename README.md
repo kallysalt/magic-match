@@ -9,4 +9,5 @@ This is a single page game created with react.js.
 
 ## Play it now: <a href="https://kallysalt.github.io/magic-match/">click me!</a>
 
+![image](https://user-images.githubusercontent.com/35176373/177237467-2998922b-4b44-4c91-a9b3-623beafaca28.png)
 

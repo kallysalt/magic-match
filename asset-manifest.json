@@ -1,13 +1,13 @@
 {
-  "main.css": "/magic-match/static/css/main.f1f31ece.chunk.css",
-  "main.js": "/magic-match/static/js/main.ab34b71d.chunk.js",
-  "main.js.map": "/magic-match/static/js/main.ab34b71d.chunk.js.map",
+  "main.css": "/magic-match/static/css/main.b0e9d38b.chunk.css",
+  "main.js": "/magic-match/static/js/main.826485e9.chunk.js",
+  "main.js.map": "/magic-match/static/js/main.826485e9.chunk.js.map",
   "runtime~main.js": "/magic-match/static/js/runtime~main.e3d21a2e.js",
   "runtime~main.js.map": "/magic-match/static/js/runtime~main.e3d21a2e.js.map",
   "static/js/2.477a3c98.chunk.js": "/magic-match/static/js/2.477a3c98.chunk.js",
   "static/js/2.477a3c98.chunk.js.map": "/magic-match/static/js/2.477a3c98.chunk.js.map",
   "index.html": "/magic-match/index.html",
-  "precache-manifest.db4d8ad0db7c1bcb7b037b53907b95ca.js": "/magic-match/precache-manifest.db4d8ad0db7c1bcb7b037b53907b95ca.js",
+  "precache-manifest.13d570c5187af417c834670bff32a4e0.js": "/magic-match/precache-manifest.13d570c5187af417c834670bff32a4e0.js",
   "service-worker.js": "/magic-match/service-worker.js",
-  "static/css/main.f1f31ece.chunk.css.map": "/magic-match/static/css/main.f1f31ece.chunk.css.map"
+  "static/css/main.b0e9d38b.chunk.css.map": "/magic-match/static/css/main.b0e9d38b.chunk.css.map"
 }
